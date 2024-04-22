@@ -1,0 +1,17 @@
+# [START django_app]
+runtime: python312
+
+handlers:
+# This configures Google App Engine to serve the files in the app's files
+# directory.
+- url: /files
+  static_dir: files/
+
+# This handler routes all requests not caught above to your main app. It is
+# required when files routes are defined, but can be omitted (along with
+# the entire handlers section) when there are no files files defined.
+- url: /.*
+  script: auto
+  secure: always
+  redirect_http_response_code: 301
+# [END django_app]
