@@ -18,8 +18,8 @@ It has modules for easily integrate it to different payment systems, loyalty sys
 >
 > ##### Software Requirements
 >
-> - Python 3.11
-> - Django 4.1.3
+> - Python 3.12
+> - Django 5.0.4
 >
 > #### Supported Database Engines
 >
