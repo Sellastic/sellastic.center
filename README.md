@@ -59,8 +59,4 @@ If you like the project and want to support it or if you want to contribute to t
 
 **ETH**: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
 
-**SOL**: HS9dUvRSqYGxkDiwTpCvKTVBBWqqtVoXdRK2AanLHMZn
-
-**MATIC**: 0xa5a87a939bfcd492f056c26e4febe102ea599b5b
-
-**XTZ**: tz1RvnJk5xVtDy2g6ijkcyGSzKA4qFg5Nuy3
+**SOL**: Gt3bDczPcJvfBeg9TTBrBJGSHLJVkvnSSTov8W3QMpQf
